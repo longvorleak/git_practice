@@ -1,6 +1,16 @@
 html {
-    background-color: peachpuff;
+    background-color: #fde8e8;
     text-align: center;
+}
+
+h1 {
+    color: #bc0f0f;
+    font-size: 4em;
+}
+
+h2 {
+    color: #e02424;
+    font-size: 3em;
 }
 
 footer {
